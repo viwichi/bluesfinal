@@ -7,7 +7,7 @@
   h1 {
     position: relative;
     margin-bottom: 45px;
-    font-family: 'Abril Fatface';font-size: 22px;
+    /* font-family: 'Abril Fatface';font-size: 22px; */
     font-size: 44px;
     text-transform: lowercase;
     color: #424242;
@@ -34,7 +34,8 @@
 
 
   .item-1 {
-    background-image: url("./akalukayo.png");
+    
+    background-image: url("./1.png");
   }
   
   .item-2 {
@@ -42,15 +43,15 @@
   }
   
   .item-3 {
-    background-image: url("./omal.png");
+    background-image: url("./2.png");
   }
   
   .item-4 {
-    background-image: url("./ee.png");
+    background-image: url("./3.png");
   }
   
   .item-5 {
-    background-image: url("./one.png");
+    background-image: url("./4.png");
   }
   
   .social {
